@@ -9,5 +9,5 @@ modules:
 -os
 -time
 
-
+(Might add an interface to it someday)
 I hope yall like it!
